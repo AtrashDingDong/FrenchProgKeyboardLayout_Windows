@@ -1,7 +1,7 @@
 # FrenchProgKeyboardLayout_Windows
 
-Custom keyboard layout for French and coding, based on the Français (Canada) layout.
-Clavier personnalisé pour français et programmation, basé sur le clavier Français (Canada). 
+Custom keyboard layout for French and coding, based on the Français (Canada) layout. For access to " " and « » <br />
+Clavier personnalisé pour français et programmation, basé sur le clavier Français (Canada). Permet d'avoir accès aux guillemets anglais et français et aux accents. <br />
 For Windows.
 
 To install, follow instructions: https://www.addictivetips.com/windows-tips/install-custom-keyboard-windows-10/
